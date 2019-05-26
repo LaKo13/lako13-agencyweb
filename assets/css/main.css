@@ -3910,7 +3910,7 @@ input, select, textarea {
   background-color: #f5f5f5;
 }
 
-.combustion-yellow-skin h1 {
+#combustion-yellow-skin h1 {
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -3937,3 +3937,8 @@ input, select, textarea {
     font-size: 4rem;
   }
 }
+/********************************************/
+/*
+/* 26. Extras
+/*
+/********************************************/
